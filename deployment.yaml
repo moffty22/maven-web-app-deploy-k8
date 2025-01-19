@@ -13,6 +13,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: mylandmarktech/maven-web-app
+        image: edsam22/maven-web-app:cef9339253979769c45733f3c4beed1dd89c62a9
         ports:
         - containerPort: 8080
